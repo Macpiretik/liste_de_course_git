@@ -41,5 +41,5 @@ Choisissez entre les propositions suivantes :
         else:
             print("Votre liste ne contient aucun élément.\n")
     menu_choise = ""
-    # un petit commentaire
+    # Un petit commentaire
     
